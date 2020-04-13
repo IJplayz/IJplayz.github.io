@@ -1,3 +1,3 @@
-# Test Website!
+# IJ's Portfolio
 
-lol
+A collection of IJ's builds and where to contact or order a build.
